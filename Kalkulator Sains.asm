@@ -1,10 +1,23 @@
-
+;=============================================================
+;															
+;	  			Proyek ini dikembangkan dengan menggunakan 
+;         pemrograman bahasa assembly. 
+;         Ada aritmatika, eksponensial, trignometri, 
+;         metrifikasi bersama dengan kalkulator 
+;         BMI yang dapat dilakukan.
+;
+;															
+;															
+;					Oleh : Reyhanssan Islamey
+;															
+;															
+;=============================================================
 GETCH MACRO
 mov ah, 7
 int 21h
 ENDM
-; this macro prints a char in AL and advances
-; the current cursor position:
+; makro ini mencetak karakter di AL dan maju
+; posisi kursor saat ini:
 PUTC MACRO char
 push ax
 mov al, char
@@ -15,7 +28,7 @@ ENDM
 org 100h
 precision = 30
 .data
-ten dw 10 ; used as multiplier/divider by SCAN_NUM & PRINT_NUM_UNS.
+ten dw 10 
 ToO db "===========Pilihan Operasi============ ",0dh,0ah
 db " Jumlah                 (+): 0",0dh,0ah
 db " Kurang                 (-): 1",0dh,0ah
