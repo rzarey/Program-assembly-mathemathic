@@ -10,7 +10,7 @@ KELAS   : I
 # Program-assembly-mathemathic
 # Kalkulator sains
 <p align="center">
-  <img src="https://ibb.co/r2pzYbB" width="300" alt="accessibility text">
+  <img src="https://i.ibb.co/qYgcK0H/main.png" width="300" alt="accessibility text">
 </p>
 Aplikasi Kalkulator Sains yang dibuat menggunakan bahasa assembly adalah sebuah aplikasi yang dapat membantu pengguna dalam melakukan perhitungan-perhitungan matematika dan sains yang rumit. Aplikasi ini dikembangkan dengan menggunakan pemrograman bahasa assembly, sehingga memiliki kecepatan yang tinggi dan dapat diandalkan untuk menghitung berbagai macam operasi matematika.
 Aplikasi ini dilengkapi dengan fitur-fitur yang luas, termasuk aritmatika, eksponensial, trignometri, dan metrifikasi. Pengguna juga dapat menggunakan fitur kalkulator BMI untuk menghitung indeks massa tubuh. Dengan demikian, aplikasi ini sangat berguna bagi para ilmuwan, engineer, dan peneliti dalam melakukan penelitian dan mengembangkan teknologi baru, serta berguna bagi perusahaan-perusahaan dalam menganalisis data dan mengambil keputusan bisnis yang tepat.
